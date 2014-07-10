@@ -20,3 +20,13 @@ After years of languishing in some onbscure sector of my harddrive, I have chose
 ### Here's a little intro if you're interested:
 
 From the power of combinators to the remarkable agility of responsive design, advanced typography snippets, mind-bending selectors, an exhaustive study of gradients, shadows, and rounded corners to incredible poly-geometric animations, CSS is used to sculpt visual web* experiences the world over.
+
+## Supplemental Interactive Application
+
+The contents of this application comprise as a whole the framework for the Designer's Companion interactive online CSS editor and tool chest.
+
+## Live Application URL
+
+Current State of Live App can be found at the link below:
+
+http://www.stonefish-web-guru.com/css-visual-encyclopedia/css-visual-encyclopedia.php
